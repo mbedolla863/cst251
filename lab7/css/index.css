@@ -1,0 +1,30 @@
+body {
+    font-family:Impact, charcoal, "san serif";
+    background-color: darkblue;
+    padding: 15px;
+    font-size: 120%;
+    color: black;
+}
+
+div#stuff {
+  background-color: lightblue;
+  border: solid 1px #333333;
+  height: 85vh;
+  margin-right: 300px;
+}
+
+p {
+  font-family: Tahoma, Geneva, sans-serif;
+  margin-top: 1px;
+}
+
+div#pic {
+  border-style: double;
+  border-width: 5px;
+  border-color: white;
+  width:500px
+}
+
+div#pic:hover {
+  transform: scaleX(-1);
+}
