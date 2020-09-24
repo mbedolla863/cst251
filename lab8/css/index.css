@@ -1,0 +1,28 @@
+body {
+    font-family:Lucida Sans Unicode "san serif";
+    background-color: #fcf4de;
+    font-size: 120%;
+}
+
+.skate p {
+  background-color: white;
+  margin-right: 500px;
+}
+
+p.skate {
+  color: teal;
+}
+
+.skate h2{
+  color:#5800fc
+}
+
+.skate p, img {
+  border-left-style: solid;
+  border-width:thick;
+  border-color: black;
+}
+
+img:hover {
+  width:400px;
+}
