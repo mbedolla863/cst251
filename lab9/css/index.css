@@ -1,0 +1,31 @@
+body {
+  background-image: url("../img/stars.jpg");
+  padding: 60px
+  background-size: contain;
+  background-attachment: fixed;
+  color:white;
+  font-size: 120%;
+}
+
+#content {
+  background-color: black;
+  margin: 25px;
+  border: double 5px white;
+  padding: 40px;
+  height: 79vh;
+}
+
+#content p {
+    margin-right: 400px;
+}
+
+.space {
+    position: relative;
+    bottom: 60px;
+    border: dotted 5px white;
+    float: right;
+}
+
+a {
+  color: red;
+}
