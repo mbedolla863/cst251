@@ -1,0 +1,41 @@
+body {
+  background-image: url("../img/mkx_dragon.jpg");
+  color: white;
+  background-size: 35%;
+  background-position: center;
+}
+
+#text {
+  background-color: black;
+  border: solid 13px red;
+  margin-right: -10px;
+  margin-left: -10px;
+  padding-left: 10px;
+  font-size: 120%;
+}
+
+#sidebar {
+display: inline-block;
+width: 33.3%;
+min-width: 300px;
+background-color: blue;
+position: relative;
+left: 66%;
+bottom: 50px;
+color: white;
+font-size: 115%;
+}
+
+.ninja {
+  position: relative;
+  left: 31%;
+  bottom: 30px;
+}
+
+#links {
+  position: sticky;
+  top: 0;
+  display: inline-block;
+  width: 15%;
+  background-color: yellow;
+}
