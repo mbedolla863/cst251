@@ -1,0 +1,58 @@
+body {
+  background-image: url("../img/supercross.jpg");
+  background-size: cover;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+#content div {
+  width: 30%;
+}
+
+#floated {
+  float: right;
+  border: solid 5px black;
+  background-color: red;
+}
+
+#center-horz {
+  border: solid 5px black;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+
+#center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#center-both {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+a {
+  border: solid 3px black;
+  background-color: green;
+  color: white;
+}
+
+h1 {
+  font-size: 250%;
+  color: white;
+}
+
+#words {
+  border: double 10px white;
+  background-color: black;
+  color: white;
+}
+
+img {
+  width: 150px;
+}
