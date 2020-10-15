@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}

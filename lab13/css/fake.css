@@ -1,0 +1,61 @@
+body {
+  font-family: 'Pattaya', sans-serif;
+  background-image: url("../img/comet.jpg");
+  background-size: cover;
+}
+
+#big {
+  font-family: 'Pattaya', sans-serif;
+  color: turquoise;
+  margin-bottom: -30px;
+  font-size: 120%;
+  position: relative;
+  top: 20%;
+  left: 45%;
+  text-shadow: -1px 2px DarkTurquoise;
+  word-spacing: 10px;
+}
+
+#giant {
+  color: turquoise;
+  font-size: 150%;
+  position: relative;
+  top: 20%;
+  left: 37%;
+  text-shadow: -1px 2px DarkTurquoise;
+  margin-bottom: -30px;
+  word-spacing: 10px;
+}
+
+#huge {
+  color: turquoise;
+  font-size: 150%;
+  position: relative;
+  top: 20%;
+  left: 42%;
+  text-shadow: -1px 2px DarkTurquoise;
+  word-spacing: 10px;
+}
+
+#italy {
+  position: relative;
+  left: 40%;
+  top: 20%;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#ticket {
+  border: 2px solid red;
+  background-color: #ff602b;
+  width: 150px;
+  color: #090033;
+  border-radius: 300px;
+  font-family: 'Quicksand', sans-serif;
+  padding-left: 33px;
+  margin-left: 45%;
+  position: relative;
+  top: 20%
+}
