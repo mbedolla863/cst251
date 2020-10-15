@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+  color: #2a2a2a;
+  font-family: 'Roboto', sans-serif;
+}
+
+#no {
+  font-size: 720%;
+  position: relative;
+  left: 27%;
+  top: 5%;
+  letter-spacing: -7px;
+  z-index: 10px;
+}
+
+#paragraph {
+  font-size: 150%;
+  color: #4d4d4d;
+  position: relative;
+  left: 32%;
+  bottom: 50%;
+  word-spacing: -3px;
+}
+
+#o {
+  font-size: 600%;
+  position: relative;
+  right: 12%;
+  bottom: 760px;
+  letter-spacing: -7px;
+  z-index: 10px;
+}
+
+#social {
+  color: white;
+  position: relative;
+  bottom: 210px;
+  font-size: 80%;
+}
+
+#email {
+  color: white;
+  position: relative;
+  bottom: 270px;
+  left: 81%;
+  font-size: 80%;
+}
+
+#insta {
+  color: white;
+  position: relative;
+  bottom: 238px;
+  left: 80px;
+  font-size: 80%;
+}
