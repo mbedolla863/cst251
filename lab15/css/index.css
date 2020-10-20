@@ -23,13 +23,13 @@ background-color: cyan;
 position: relative;
 }
 
-#turn {
+.turn {
 position: relative;
 left: 840px;
 top: 10px;
 }
 
-#jump {
+.jump {
   position: relative;
   left: 1020px;
   top: 30px;
