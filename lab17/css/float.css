@@ -1,0 +1,56 @@
+body {
+  background-image: linear-gradient(blue, mistyrose);
+}
+
+header, main, section, footer, nav, aside {
+  border: solid 4px black;
+}
+
+header {
+  font-size: 330%;
+  font-weight: bolder;
+  background-color: #5588ed;
+  padding-left: 410px;
+}
+
+main {
+  margin-left: 243px;
+  margin-right: 264px;
+  background-color: #5588ed;
+  clear: both;
+  position: relative;
+  bottom: 371px;
+}
+
+nav {
+  margin-right: 80%;
+  background-color: #5588ed;
+  font-size: 170%;
+  line-height: 90px;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+footer {
+  margin-left: 80%;
+  background-color: #5588ed;
+  font-size: 160%;
+  line-height: 70px;
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  bottom: 757px;
+}
+
+aside {
+  margin-right: 39%;
+  margin-top: 60%;
+  position: relative;
+  bottom: 1165px;
+}
+
+aside img {
+  width: 400px;
+}

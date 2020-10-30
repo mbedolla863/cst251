@@ -1,0 +1,64 @@
+body {
+  background-image: linear-gradient(blue, mistyrose);
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+header, main, section, footer, nav, aside {
+  border: solid 4px black;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: red;
+}
+
+header {
+  font-size: 320%;
+  font-weight: bolder;
+  padding-left: 410px;
+}
+
+main {
+  max-height: 600px;
+  margin-left: 264px;
+  margin-right: 260px;
+  flex-direction: column;
+  position: relative;
+  bottom: 410px;
+}
+
+nav {
+  color: black;
+  margin-right: 80%;
+  background-color: #03b6fc;
+  font-size: 175%;
+  line-height: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+footer {
+  margin-left: 80%;
+  background-color: #03b6fc;
+  font-size: 145%;
+  line-height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  bottom: 980px;
+}
+
+h1, p {
+  padding-left: 10px;
+  font-size: 140%;
+}
+
+aside {
+  position: relative;
+  bottom: 715px;
+  margin-right: 50%;
+}
+
+aside img{
+  padding-top: 2px;
+  padding-left: 5px;
+  width: 650px;
+}
