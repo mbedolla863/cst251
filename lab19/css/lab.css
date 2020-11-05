@@ -1,0 +1,22 @@
+body {
+  background-image: radial-gradient(red, beige);
+}
+
+.col-sm-4 {
+border: 2px solid black;
+}
+
+.row3 .col-sm-12 {
+  border: 2px solid black;
+  margin-right: 300px;
+  font-size: 150%;
+}
+
+.row2 .col-sm-12 h1 {
+  font-size: 300%;
+  text-align: center;
+}
+
+.row2 .col-sm-12 {
+    border: 2px solid black;
+}
