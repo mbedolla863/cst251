@@ -9,7 +9,7 @@ body {
 div#content {
   background-color: turquoise;
   border: solid 1px #333333;
-  height: 85vh;
+  height: 95vh;
   margin-right: 300px;
 }
 
@@ -26,4 +26,9 @@ h2 {
 
 img {
   width: 400px;
+}
+
+a {
+  color: turquoise;
+  font-weight: bold;
 }
